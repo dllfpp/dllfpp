@@ -19,3 +19,9 @@ I lead IT across Southern Europe for a global manufacturing company, and I spend
 ## Let's connect
 
 Feedback, issues and ideas are welcome. Open an issue on any repo.
+
+## Support my work
+ 
+If my projects save you time, you can buy me a coffee ☕
+ 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dllfpp)
