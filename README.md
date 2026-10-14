@@ -1,7 +1,7 @@
 # Hi, I'm Filippo 👋
 
 **IT leader by day, builder by night.**
-I lead IT across Southern Europe for a global manufacturing company, and I spend my spare time building small, practical tools that make technology simpler to live with.
+I spend my spare time building small, practical tools that make technology simpler to live with.
 
 ## What I work on
 
